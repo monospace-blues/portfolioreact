@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as HashRouter, Route, Switch } from "react-router-dom";
 import './App.css';
 // Bootstrap
 import Nav from "./components/NavComponent";
@@ -9,7 +9,7 @@ import AboutMe from './pages/AboutMe';
 
 function App() {
   return (
-    <Router>
+    <HashRouter>
     <div className="App">
       <Nav/>
       <Switch>
@@ -21,7 +21,7 @@ function App() {
         </Route>
       </Switch>
     </div>
-    </Router>
+    </HashRouter>
 
   );
 }
