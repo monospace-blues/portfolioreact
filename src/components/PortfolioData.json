@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Quarantine Eats!",
+    "description": "My first project, since quarantine was at it's peak around that time, we created a drinks webpage that gives you options to make a drink.",
+    "repo": "https://github.com/jonafi/quarantine-eats",
+    "deployedPage": "https://jonafi.github.io/quarantine-eats/index.html"
+  },
+  {
+    "title": "Songwriters Lament",
+    "description": "My second project. Working and figuring out passport for login information, we also made an application for saving lyrics for each user.",
+    "repo": "https://github.com/schoess/Songwriters_Lament",
+    "deployedPage": "https://project-2-schoess.herokuapp.com/"
+  },
+  {
+    "title": "Employee Management Team",
+    "description": "My third project. Building a website to handle employee information and keeping track of documents of those employees. A nice challenge for my team who built it with no knowledge of AWS and Chat implementation.",
+    "repo": "https://github.com/jonafi/emt",
+    "deployedPage": "https://team-c2c-emt.herokuapp.com/"
+           
+  },
+  {
+    "title": "Object Oriented Programming",
+    "repo": "https://github.com/tiempoAutomata/HWOOPandTDD"
+  },
+  {
+    "title": "Weather API",
+    "repo": "https://github.com/tiempoAutomata/HWWeatherAPI",
+    "deployedPage": "https://tiempoautomata.github.io/HWWeatherAPI"
+  },
+  {
+    "title": "Password Generator",    
+    "repo": "https://github.com/tiempoAutomata/HWPasswordGenerator",
+    "deployedPage": "https://tiempoautomata.github.io/HWPasswordGenerator/"
+  },
+  {
+    "title": "Note Taker",  
+    "repo":"https://github.com/tiempoAutomata/HWNoteTaker",
+    "deployedPage": "https://aqueous-woodland-55844.herokuapp.com/"
+  }
+]
