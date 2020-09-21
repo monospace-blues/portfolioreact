@@ -4,6 +4,7 @@ import Nav from 'react-bootstrap/Nav';
 
 function NavComponent() {
   return (
+    
     <div>
       <Navbar bg="dark" variant="dark">
       <Navbar.Brand >Christian Gonzalez</Navbar.Brand>
