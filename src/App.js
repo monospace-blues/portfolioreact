@@ -9,16 +9,12 @@ import AboutMe from './pages/AboutMe';
 
 function App() {
   return (
-    <HashRouter>
+    <HashRouter basename="/">
     <div className="App">
       <Nav/>
       <Switch>
-        <Route exact path="/">
-          <AboutMe/>
-        </Route>
-        <Route path="/portfolio">
-          <Portfolio />
-        </Route>
+        <Route exact path="/" component={AboutMe}/>
+        <Route path="/portfolio" component={Portfolio}/>
       </Switch>
     </div>
     </HashRouter>
